@@ -1,0 +1,23 @@
+#about{
+    background: black;
+}
+
+#subs{
+    font-size: 70px;
+    text-align: center;
+    background-color: black;
+    font-style: italic;
+    color: aquamarine;
+}
+
+#description{
+    font-size: medium;
+}
+
+.img-tamano{
+    float: right;
+}
+
+.bg-color-gral{
+    background-color: rgb(58, 58, 58);
+}
